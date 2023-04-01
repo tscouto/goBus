@@ -1,0 +1,32 @@
+body {
+    align-items: center;
+    text-align: center;
+}
+
+.imagemCabecalho{
+    width: 1000px;
+}
+
+.banner {
+    width: 900px;
+}
+p{
+    margin-bottom: 30px;
+}
+table {
+    width: 600px;
+    margin: auto;
+}
+
+.textTable {
+    text-align: right;
+}
+.inpuntTable{
+    text-align: left;
+}
+nav{
+  
+justify-content: center;
+justify-content: space-around;
+
+}
